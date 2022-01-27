@@ -1,0 +1,2 @@
+require("./jabatan");
+require("./karyawan");

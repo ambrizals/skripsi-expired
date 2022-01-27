@@ -1,0 +1,6 @@
+"transaksi" => 'Untuk ke detail transaksi"
+"pekerjaan-creator" => "Untuk ke halaman pekerjaan"
+"pekerjaan" => "Untuk ke halaman detail pekerjaan"
+"pengiriman" => "Untuk ke halaman pengiriman"
+"tugas" => "Untuk ke detail tugas"
+"tugas-creator => "Untuk ke halaman tugas "

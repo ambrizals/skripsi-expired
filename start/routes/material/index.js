@@ -1,0 +1,2 @@
+require("./supplier");
+require("./material");
